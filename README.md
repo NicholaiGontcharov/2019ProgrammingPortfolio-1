@@ -3,4 +3,5 @@
 ## First Semester Processing Calculator
 ##### Completed (...)
 Object oriented calculator with features including...
-![Calculator]()
+
+![Calculator](https://github.com/zackChristiansen/2019ProgrammingPortfolio/blob/master/images/calc01.png)

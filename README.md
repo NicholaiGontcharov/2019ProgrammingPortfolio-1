@@ -4,7 +4,7 @@
 ##### Completed Nov. 20, 2018
 Object oriented calculator with features including powers, roots, absoulte value, and a button that rounds number to the nearest whole number, and then all of the basic features of a calculator like addition subtraction and other things
 ![Calculator](https://github.com/zackChristiansen/2019ProgrammingPortfolio/blob/master/images/calc01.png)
-[Click here to view syntax](https://github.com/zackChristiansen/2019ProgrammingPortfolio/blob/master/NumberGame/numberGuessing.zip)
+[Click here to view syntax](https://github.com/zackChristiansen/2019ProgrammingPortfolio/blob/master/NumberGame/Calculator.zip)
 
 ## First Semester Screen Saver
 ##### Completed Nov. 2, 2018

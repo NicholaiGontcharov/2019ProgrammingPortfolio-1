@@ -10,7 +10,7 @@ Object oriented calculator with features including powers, roots, absoulte value
 ##### Completed Nov. 2, 2018
 This program selects a random background and then will draw lines across the screen in random directions and lengths until it will eventually fill the screen
 ![ScreenSaver](https://github.com/zackChristiansen/2019ProgrammingPortfolio/blob/master/images/ScrnSaver.png)
-[Click here to view syntax](https://github.com/zackChristiansen/2019ProgrammingPortfolio/blob/master/NumberGame/numberGuessing.zip)
+[Click here to view syntax](https://github.com/zackChristiansen/2019ProgrammingPortfolio/blob/master/NumberGame/Screen_Saver.zip)
 
 ## First Semester Space Shooter Game
 ##### Completed Jan. 3, 2019

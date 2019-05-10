@@ -23,4 +23,5 @@ This program is a game that asks the user to guess a number from 1-100 and try a
 ## Second Semester Choose Your Own Story Game
 ##### Completion TBD
 This program lets you choose a number 1-10 and then you will get your character that you will be and you will make decisions for them and try to end the game with as much money as you can and without making your friends and family hate you. I worked on this one with two other programmers.
-![ChooseYourOwnStory]()
+![ChooseYourOwnStory](https://github.com/zackChristiansen/2019ProgrammingPortfolio/blob/master/images/CYOStory.png)
+##### (Still not finished)

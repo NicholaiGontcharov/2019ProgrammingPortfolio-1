@@ -13,7 +13,7 @@ This program selects a random background and then will draw lines across the scr
 ## First Semester Space Shooter Game
 ##### Completed Jan. 3, 2019
 This program is a game where your are a space ship and try to dodge and shoot the incoming meteors and then try and get to the highest level you can with as many points as you can get
-![SpaceShooter]()
+![SpaceShooter](https://github.com/zackChristiansen/2019ProgrammingPortfolio/blob/master/images/SpaceShooter.png)
 
 ## Second Semester Number Guessing Game
 ##### Completed Feb. 26, 2019
